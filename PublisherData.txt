@@ -1,0 +1,5 @@
+editora1;endereco1;l1;a1;l2;a2;
+editora2;endereco2;l3;a3;livro do gabriel;gabriel;livro2;autor2;
+editora3;endereco3;l4;a4;
+ashud;ahsd;livronovo;autornovo;
+editora do gabriel;na casa do gabriel;livro do leo;leo;

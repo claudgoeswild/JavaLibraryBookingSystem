@@ -1,0 +1,11 @@
+Employee;func;func;func;
+Grad_student;grad;grad;grad;grad;l2;a2;editora1;Não;
+Postgrad_student;pos;pos;pos;pos;l3;a3;editora2;Não;l1;a1;editora1;Não;
+Employee;1;1;1;
+Grad_student;2;2;2;2;l4;a4;editora3;Não;
+Employee;abc;abc;123;
+Grad_student;gabriel;gabriel@unesp;123;123;
+Grad_student;asdsad;asdasd;aaa;aaa;
+Grad_student;aaa;www;www;www;
+Grad_student;123;123;123;123;
+Employee;111;111;111;

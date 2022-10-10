@@ -1,0 +1,8 @@
+l1;a1;editora1;Não;
+l2;a2;editora1;Não;
+l3;a3;editora2;Não;
+l4;a4;editora3;Não;
+livronovo;autornovo;ashud;Sim;
+livro do gabriel;gabriel;editora2;Sim;
+livro do leo;leo;editora do gabriel;Sim;
+livro2;autor2;editora2;Sim;
